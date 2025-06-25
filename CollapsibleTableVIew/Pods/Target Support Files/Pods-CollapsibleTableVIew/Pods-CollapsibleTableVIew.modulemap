@@ -1,0 +1,6 @@
+framework module Pods_CollapsibleTableVIew {
+  umbrella header "Pods-CollapsibleTableVIew-umbrella.h"
+
+  export *
+  module * { export * }
+}

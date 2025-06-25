@@ -1,0 +1,6 @@
+framework module Pods_CollapsibleTableVIewTests {
+  umbrella header "Pods-CollapsibleTableVIewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

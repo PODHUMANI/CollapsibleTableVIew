@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_CollapsibleTableVIew_CollapsibleTableVIewUITests : NSObject
+@end
+@implementation PodsDummy_Pods_CollapsibleTableVIew_CollapsibleTableVIewUITests
+@end
